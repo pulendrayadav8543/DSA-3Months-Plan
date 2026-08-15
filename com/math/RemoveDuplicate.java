@@ -18,7 +18,6 @@ public class RemoveDuplicate{
 		return str;
 	}
 	public static void main(String[] args){
-		System.out.print("After Duplicate Remove");
 		System.out.println(removeDuplicate("Aabbccc"));
 	}
 }
